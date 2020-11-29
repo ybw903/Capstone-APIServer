@@ -16,7 +16,7 @@
     - /booking : 예약 정보 자원
 
 
-- 무인주차시스템
+무인주차시스템
 
 [- 애플리케이션](https://github.com/ybw903/Capstone-Application)
 
