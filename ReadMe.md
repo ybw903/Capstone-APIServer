@@ -18,5 +18,6 @@
 
 - 무인주차시스템
 
-[애플리케이션]("https://github.com/ybw903/Capstone-Application")
-[주차장시스템]("https://github.com/ybw903/Capstone-ParkingSystem/tree/master/ml")
+[애플리케이션](https://github.com/ybw903/Capstone-Application)
+
+[주차장시스템](https://github.com/ybw903/Capstone-ParkingSystem/tree/master/ml)
